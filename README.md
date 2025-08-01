@@ -1,2 +1,10 @@
+<img width="676" height="676" alt="image" src="https://github.com/user-attachments/assets/eccd6592-7499-4209-9e60-12321207d1e7" />
+Swikriti Joshi
+Graduate Student
+San Diego State University - Big Data Analytics
+LinkedIn: www.linkedin.com/in/swikritijoshi
+Email: sjoshi2639@sdsu.edu
+
+
 My data-driven research initiative focuses on the Berkeley Fire Department’s purchasing activity for Fiscal Year 2024-2025, using real procurement data I personally managed during my time in the department’s Accounting Division. This analysis identifies all active vendors the department engaged with during the year and reveals key spending patterns, vendor relationships, and category-level trends.
 The goal is to deliver actionable insights that support smarter budget planning and more strategic decision-making in future fiscal years. By making this information transparent and easy to understand, I aim to help department heads and division managers gain a clearer view of how public safety funds are allocated and spent. Explore the data, discover the trends, and join me in building a more informed approach to municipal budgeting.
