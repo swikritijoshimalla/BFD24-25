@@ -1,4 +1,12 @@
-<img width="200" height="225" alt="image" src="https://github.com/user-attachments/assets/4169c079-466c-43b7-b0a7-412bb920d121" />
+<div style="text-align: center; margin: 20px 0;">
+  <img
+    width="200"
+    height="225"
+    alt="image"
+    src="https://github.com/user-attachments/assets/4169c079-466c-43b7-b0a7-412bb920d121"
+    style="border-radius: 8px;"
+  />
+</div>
 
 My data-driven research initiative focuses on the Berkeley Fire Department’s purchasing activity for Fiscal Year 2024-2025, using real procurement data I personally managed during my time in the department’s Accounting Division. This analysis identifies all active vendors the department engaged with during the year and reveals key spending patterns, vendor relationships, and category-level trends.
 
