@@ -1,3 +1,5 @@
+<img width="200" height="225" alt="image" src="https://github.com/user-attachments/assets/4169c079-466c-43b7-b0a7-412bb920d121" />
+
 My data-driven research initiative focuses on the Berkeley Fire Department’s purchasing activity for Fiscal Year 2024-2025, using real procurement data I personally managed during my time in the department’s Accounting Division. This analysis identifies all active vendors the department engaged with during the year and reveals key spending patterns, vendor relationships, and category-level trends.
 
 The goal is to deliver actionable insights that support smarter budget planning and more strategic decision-making in future fiscal years. By making this information transparent and easy to understand, I aim to help department heads and division managers gain a clearer view of how public safety funds are allocated and spent. Explore the data, discover the trends, and join me in building a more informed approach to municipal budgeting.
